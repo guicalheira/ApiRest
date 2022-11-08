@@ -4,7 +4,8 @@
         "nome":"Guilherme" ,
         "sobrenome": "Calheira",
         "idade": 19 ,
-        "altura": 1.85
+        "altura": 1.85,
+        "link": "http://0.0.0.0/user?nome=Guilherme"
      },
      {
     "nome":"Pedro",
