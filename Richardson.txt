@@ -1,0 +1,6 @@
+Modelo de maturidade de Richardson
+4Pilares
+1-Ultilizar HTTP
+2-URI Representativa
+3-Verbos HTTP
+4-Uso do HATEOAS
