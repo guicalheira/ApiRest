@@ -1,0 +1,5 @@
+É um formato de texto baseado em coleções de pares chaves/valor
+Fácil de ler e escrever 
+Em várias linguagens isso é realizado como um objeto, registro ,estrutura , dicionário , tabela de hash , lista de chaves ou matriz associativa;
+Estas são estruturas de dados Universais
+Presente em quase todas linguagens de programação modernas
