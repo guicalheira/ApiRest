@@ -4,9 +4,12 @@
         "nome":"Guilherme" ,
         "sobrenome": "Calheira",
         "idade": 19 ,
-        "altura": 1.75 
+        "altura": 1.85
+     },
+     {
+    "nome":"Pedro",
+    "sobrenome":"Certezas",
+    "altura":1.74
      }
-
-
     ]
 }
