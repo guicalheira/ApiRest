@@ -1,0 +1,4 @@
+Get: Buscar Recursos , Cache
+Post: Criar novo recurso
+Put: Atualizar um recurso existente
+Delete: Remover um recurso
