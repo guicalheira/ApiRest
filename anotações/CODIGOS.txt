@@ -1,0 +1,28 @@
+npm init -y
+npm install express
+or
+yarn add express
+criar pagina src(codigo fonte)
+
+
+pra atualizar 
+
+yarn add nodemon -D 
+npx nodemon src/index.js
+
+
+#pra executar o arquivo no back-end
+node serc/index.js
+
+
+
+no insomnia
+ultilizando o metodo get :
+localhost:3000
+localhost:3000/products
+localhost:3000/products/1
+
+
+
+arquivo   pasta        pasta     
+routes--->controllers---->repositories
